@@ -1,0 +1,6 @@
+name: Zepl3
+version: '${project.version}'
+main: zepl3.mcmcmcne.zepl3.Zepl3
+api-version: 1.18
+authors: [ zane2e ]
+description: My first plugin ever
